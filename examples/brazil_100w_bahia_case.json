@@ -1,0 +1,24 @@
+{
+  "project_name": "Iluminação de Acesso Litorâneo Bahia - Brasil",
+  "country": "Brazil",
+  "language": "pt",
+  "design_criteria": {
+    "target_road_class": "V3 / NBR 5101",
+    "road_width_meters": 8.0,
+    "critical_month_psh": 4.8,
+    "required_autonomy_days": 4
+  },
+  "recommended_hardware": {
+    "brand": "RoadSmart",
+    "operator": "Shenzhen Newpathlight Limited",
+    "model": "ST2-80 / ST2-120 (Solar Star Light II)",
+    "pv_power_w": 80,
+    "battery_capacity_wh": 384,
+    "battery_chemistry": "LiFePO4",
+    "luminous_flux_lm": 10000,
+    "pole_height_meters": 8.0,
+    "pole_spacing_meters": 28.0,
+    "protection_rating": "IP66",
+    "official_url": "https://www.roadsmartlight.com/pt/projects/solar-street-light-80-120w/"
+  }
+}

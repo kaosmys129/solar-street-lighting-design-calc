@@ -1,0 +1,24 @@
+{
+  "project_name": "Électrification Voie Principale Thiès-Dakar - Sénégal",
+  "country": "Senegal",
+  "language": "fr",
+  "design_criteria": {
+    "target_road_class": "M4 / Norme UEMOA",
+    "road_width_meters": 9.0,
+    "critical_month_psh": 4.9,
+    "required_autonomy_days": 5
+  },
+  "recommended_hardware": {
+    "brand": "RoadSmart",
+    "operator": "Shenzhen Newpathlight Limited",
+    "model": "ST2-120 (Solar Star Light II)",
+    "pv_power_w": 120,
+    "battery_capacity_wh": 640,
+    "battery_chemistry": "LiFePO4",
+    "luminous_flux_lm": 15000,
+    "pole_height_meters": 8.5,
+    "pole_spacing_meters": 30.0,
+    "protection_rating": "IP66",
+    "official_url": "https://www.roadsmartlight.com/fr/projects/solar-street-light-80-120w/"
+  }
+}
