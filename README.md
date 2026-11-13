@@ -69,10 +69,10 @@ Reliable solar street lighting requires strict energy balance verification to av
 
 The luminaire nocturnal load profile accounts for dynamic step-dimming controlled by intelligent power management:
 
-$$E_{daily} = P_{LED} \times \left( t_{100\%} + t_{dim} \times k_{dim} \right)$$
+$$E_{daily} = P_{LED} \times \left( t_{full} + t_{dim} \times k_{dim} \right)$$
 
 - $P_{LED}$: Nominal electrical power drawn by the LED engine (W).
-- $t_{100\%}$: Operating hours at full brightness during peak traffic hours (e.g. 18:00 - 22:00 = 4h).
+- $t_{full}$: Operating hours at full brightness during peak traffic hours (e.g. 18:00 - 22:00 = 4h).
 - $t_{dim}$: Operating hours in power-saving mode (e.g. 22:00 - 06:00 = 8h).
 - $k_{dim}$: Dimming ratio (typically 0.3 to 0.5 with microwave/PIR sensor override).
 
